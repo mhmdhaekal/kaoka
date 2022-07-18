@@ -2198,6 +2198,11 @@ h3 {
 
 }
 
+.owl-carousel {
+  width: 100%;
+  box-sizing: border-box;
+
+}
 @media (max-width: 767px) {
   /* line 1, ../../Arafath/CL/january 2020/237. Real Estate/HTML/scss/_appetment.scss */
   .appertment_area {
