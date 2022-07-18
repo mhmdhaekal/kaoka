@@ -2192,6 +2192,12 @@ h3 {
   max-width:100%
 }
 
+.logos-slider {
+  width: 100%;
+  box-sizing: border-box;
+
+}
+
 @media (max-width: 767px) {
   /* line 1, ../../Arafath/CL/january 2020/237. Real Estate/HTML/scss/_appetment.scss */
   .appertment_area {
@@ -2199,10 +2205,6 @@ h3 {
     padding-bottom: 80px;
   }
 
-  .client-area {
-    padding-top: 80px;
-    padding-bottom: 80px;
-  }
 }
 
 /* line 8, ../../Arafath/CL/january 2020/237. Real Estate/HTML/scss/_appetment.scss */
